@@ -19,6 +19,16 @@
 // 'Patio Table', 'Patio Chairs', 'Lounge Chair', 'Umbrella', 'BBQ Grill', 'Planters', 'Outdoor Rug', 'Outdoor Lighting', 'Fire Pit', 'Hammock'
 // 'Treadmill', 'Exercise Bike', 'Weight Bench', 'Dumbbells', 'Yoga Mat', 'Resistance Bands', 'Medicine Ball', 'Elliptical Machine', 'Rowing Machine', 'Gym Mirror'
 // 'TV Stand', 'TV', 'Sofa', 'Recliner', 'Coffee Table', 'Sound System', 'Media Cabinet', 'Popcorn Machine', 'Projector', 'Movie Posters'
+// ------------------------ Layout----------------
+// "Open Plan", "Closed Plan", "U-shaped Layout", "L-shaped Layout", "Parallel Layout", "Island Layout"
+// ------------------------ Style ---------------------------
+// "Modern", "Contemporary", "Minimalist", "Industrial", "Mid-Century Modern", "Scandinavian", "Traditional", "Transitional", "French Country", "Bohemian (Boho)", "Rustic", "Shabby Chic", "Coastal (Hamptons)", "Hollywood Regency", "Farmhouse", "Craftsman", "Art Deco", "Asian Zen", "Moroccan", "Mediterranean", "Victorian", "Gothic", "Tudor", "English Country", "American Colonial", "Georgian", "Greek Revival", "Spanish", "Italianate", "Prairie", "Southwestern", "Art Nouveau", "Brutalist", "Bauhaus", "Rococo", "Neoclassical", "Japandi", "Biophilic Design", "Hygge", "Wabi-Sabi", "Traditional Chinese", "Chinese Art Deco", "Chinese Modern", "Chinese Zen", "Chinese Chinoiserie", "Chinese Ming Style"]
+// ------------------------ color --------------------------------------
+// "Monochromatic", "Analogous", "Complementary", "Triadic", "Split-Complementary", "Square", "Rectangle (Tetradic)", "Neutral", "Warm", "Cool", "Pastel", "Vibrant"
+// ----------------------------lighting---------------------
+// "Ambient Lighting", "Task Lighting", "Accent Lighting", "Decorative Lighting", "Natural Lighting", "Direct Lighting", "Indirect Lighting", "Mood Lighting", "Kinetic Lighting"
+// -----------------------------material--------------------------
+// "Wood", "Metal", "Glass", "Fabric", "Leather", "Stone", "Tile", "Wallpaper", "Carpet", "Concrete", "Plastic", "Natural Fibers", "Brick"
 // 
 const categories = {
     subject: [
