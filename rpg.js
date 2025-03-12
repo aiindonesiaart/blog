@@ -25,7 +25,7 @@ const categories = {
         "Laundry",
         "Laundromat",
         "Laundry Room",
-        "Jakarta Street,
+        "Jakarta Street",
         "National Monument Monas",
         "Ragunan Zoo",
         "Bogor Royal Garden",
