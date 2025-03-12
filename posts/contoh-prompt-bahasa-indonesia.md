@@ -1,7 +1,7 @@
 # Contoh Prompt Gambar AI Menciptakan Gambar Unik
 
 _Diposting Pada:_ **12 Maret 2025**
-_Oleh:_  [**Wahyudi**](https://bandarlaundry.github.io/blog/author/wahyudi.html)
+_Oleh:_  [**Wahyudi**](../author/wahyudi.html)
 
 Dalam dunia seni digital, teknologi AI kini mempermudah proses penciptaan gambar yang luar biasa dengan menggunakan sistem prompt. Prompt adalah instruksi atau perintah yang diberikan kepada AI untuk menciptakan gambar sesuai dengan deskripsi yang diinginkan. Salah satu format yang banyak digunakan dalam pembuatan gambar AI adalah struktur "Style + Ajektif + Pronomina + Verba", yang memberikan hasil yang lebih mendetail dan terarah. 
 
