@@ -134,11 +134,6 @@ footer a {
     padding: 20px;
 }
 
-.container h1 {
-    font-size: 14px;
-    font-weight: bold;
-}
-
 button {
     font-size: 18px;
     padding: 10px 20px;
@@ -160,7 +155,7 @@ button:hover {
 
 #output {
     margin-top: 20px;
-    font-size: 40px;
+    font-size: 14px;
 }
 
 #instructions {
