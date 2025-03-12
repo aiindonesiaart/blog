@@ -127,3 +127,42 @@ footer a {
   background: #999;
   cursor: not-allowed;
 }
+
+/* RPG */
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+
+#descript {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#output {
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+#instructions {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.frozen {
+    font-weight: bold;
+}
