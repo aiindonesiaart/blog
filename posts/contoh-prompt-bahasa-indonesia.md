@@ -5,12 +5,19 @@ Dalam dunia seni digital, teknologi AI kini mempermudah proses penciptaan gambar
 ### Berikut adalah contoh prompt dalam Bahasa Indonesia untuk menggambar AI yang dapat Anda gunakan atau modifikasi untuk berbagai keperluan kreatif.
 
 1. Impresionisme + Cerah + Laut + Mengalir
-  
+
 ``` Menghasilkan gambar laut yang cerah dengan gaya impresionisme, menampilkan air yang mengalir.```
 
-4. Realistis + Modern + Kota + Berkilau
+2. Realistis + Modern + Kota + Berkilau
+``` Menghasilkan gambar kota besar dengan desain modern yang terlihat berkilau di malam hari. ```
 
-``` Menghasilkan gambar kota besar dengan desain modern yang terlihat berkilau di malam hari.```
+3. Kubisme + Suram + Seorang wanita + Merenung
+
+``` Gambar seorang wanita dalam gaya kubisme, dengan ekspresi suram, sedang merenung. ```
+
+4. Futuristik + Mengagumkan + Ruang angkasa + Menyala
+
+``` Menghasilkan gambaran ruang angkasa futuristik yang mempesona, penuh warna dan cahaya yang menyala. ```
 
 5. Kubisme + Suram + Seorang wanita + Merenung
 
