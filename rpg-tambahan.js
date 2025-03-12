@@ -29,7 +29,14 @@
 // "Ambient Lighting", "Task Lighting", "Accent Lighting", "Decorative Lighting", "Natural Lighting", "Direct Lighting", "Indirect Lighting", "Mood Lighting", "Kinetic Lighting"
 // -----------------------------material--------------------------
 // "Wood", "Metal", "Glass", "Fabric", "Leather", "Stone", "Tile", "Wallpaper", "Carpet", "Concrete", "Plastic", "Natural Fibers", "Brick"
-// 
+// ------------------------------texture----------------------
+// 'Smooth', 'Grainy', 'Polished', 'Unfinished', 'Smooth', 'Brushed', 'Polished', 'Matte', 'Hammered', 'Clear', 'frosted', 'Eye-Leve', 'stained', 'Soft', 'plush', 'silky', 'coarse', 'embroidered', 'patterned',
+// 'distressed', 'pebbled', 'faux', 'rough', 'tumbled', 'honed', 'Glossy', 'matte', 'textured', 'mosaic', 'embossed', Woven', 'knotted', 'braided', 'Rough', 'painted', 'distressed', 'glazed', 
+// -----------------------------acceccories----------------------
+// "Artwork", "Mirrors", "Rugs", "Throw Pillows", "Blankets/Throws", "Candles", "Books", "Plants", "Picture Frames", "Vases", "Decorative Bowls", "Clocks", "Lamps", "Baskets", "Figurines/Statues", "Decorative Boxes", "Trays"
+// ----------------------------------mood----------------
+// "Cozy", "Formal", "Relaxed", "Energetic", "Inviting", "Serene", "Luxurious", "Comfortable", "Minimalist", "Romantic", "Rustic", "Elegant", "Vibrant", "Warm", "Cool", "Whimsical", "Sophisticated", "Casual", "Tranquil", "Cheerful", "Dramatic", "Eclectic", "Modern", "Traditional", "Zen"
+// Tanda petik satu diganti petik dua, perhatikan tanda koma
 const categories = {
     subject: [
         "Apple",
