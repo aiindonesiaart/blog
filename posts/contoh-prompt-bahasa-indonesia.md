@@ -1,6 +1,14 @@
 # Contoh Prompt Gambar AI Menciptakan Gambar Unik
 
+_Diposting Pada:_ **12 Maret 2025**
+_Oleh:_  [**Wahyudi**](https://bandarlaundry.github.io/blog/author/wahyudi.html)
+
 Dalam dunia seni digital, teknologi AI kini mempermudah proses penciptaan gambar yang luar biasa dengan menggunakan sistem prompt. Prompt adalah instruksi atau perintah yang diberikan kepada AI untuk menciptakan gambar sesuai dengan deskripsi yang diinginkan. Salah satu format yang banyak digunakan dalam pembuatan gambar AI adalah struktur "Style + Ajektif + Pronomina + Verba", yang memberikan hasil yang lebih mendetail dan terarah. 
+
+![Contoh Prompt Gambar AI Menciptakan Gambar Unik](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-ade-dari-sulawesi-ke-bogor-demi-ikut-kelas-sabun.webp)
+
+ #### Gambar Dihasilkan Oleh:
+
 
 ### Berikut adalah contoh prompt dalam Bahasa Indonesia untuk menggambar AI yang dapat Anda gunakan atau modifikasi untuk berbagai keperluan kreatif.
 
