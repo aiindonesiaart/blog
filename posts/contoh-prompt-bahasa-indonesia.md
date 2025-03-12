@@ -9,6 +9,7 @@ Dalam dunia seni digital, teknologi AI kini mempermudah proses penciptaan gambar
 ``` Menghasilkan gambar laut yang cerah dengan gaya impresionisme, menampilkan air yang mengalir.```
 
 2. Realistis + Modern + Kota + Berkilau
+
 ``` Menghasilkan gambar kota besar dengan desain modern yang terlihat berkilau di malam hari. ```
 
 3. Kubisme + Suram + Seorang wanita + Merenung
