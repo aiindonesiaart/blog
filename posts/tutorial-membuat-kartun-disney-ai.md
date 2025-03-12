@@ -1,11 +1,11 @@
-# Contoh Prompt Gambar AI Menciptakan Gambar Unik
+# Tutorial Membuat Kartun Disney AI dari Foto Sendiri via Bing Image Creator
 
 _Diposting Pada:_ **12 Maret 2025**
 _Oleh:_  [**Wahyudi**](../author/wahyudi.html)
 
 Bagi banyak orang, karakter kartun Disney, terutama dari Disney Pixar, memiliki daya tarik tersendiri. Dengan desain yang unik dan ekspresif, karakter-karakter tersebut berhasil menginspirasi jutaan orang di seluruh dunia. Kini, berkat kemajuan teknologi AI, kita bisa menciptakan versi kartun Disney dari foto pribadi kita dengan menggunakan alat seperti Bing Image Creator. Proses ini sangat mudah dan memungkinkan Anda untuk membuat gambar dengan gaya “Disney Pixar” dan bahkan menambahkan efek “3D” yang membuat hasilnya lebih hidup dan menarik.
 
-![Contoh Prompt Gambar AI Menciptakan Gambar Unik](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-ade-dari-sulawesi-ke-bogor-demi-ikut-kelas-sabun.webp)
+![Tutorial Membuat Kartun Disney AI dari Foto Sendiri via Bing Image Creator](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-ade-dari-sulawesi-ke-bogor-demi-ikut-kelas-sabun.webp)
 
 Berikut adalah tutorial langkah demi langkah untuk membuat gambar kartun Disney dari foto Anda menggunakan Bing Image Creator:
 
