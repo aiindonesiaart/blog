@@ -11,11 +11,9 @@
   <div id="header"></div>
 
   <div class="container">
-        <h1>Random Prompt Generator</h1>
-        <button id="generateButton">Generate</button>
-        <div id="output">
-        </div>
-        <div id="instructions">Klik kata yang ingin selalu tampil</div>
+        <button class="button" onclick="generateRandomPrompt()">Klik Prompt Desain Interior</button>
+        <button class="button" id="copy-button">Salin</button>
+      <p id="prompt"></p>
     </div>
   
   <div class="content">
@@ -83,5 +81,6 @@
     };
   </script>
   <script type="text/javascript" src="rpg.js"></script>
+  <script type="text/javascript" src="rpg-interior.js"></script>
 </body>
 </html>
