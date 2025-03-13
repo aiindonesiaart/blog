@@ -1,6 +1,12 @@
 # Prompt Gambar Kucing dengan AI Membuat Gambar Mengagumkan dari Berbagai Jenis Kucing
 
-Saat ini, dengan bantuan kecerdasan buatan (AI), kita bisa dengan mudah membuat gambar dari deskripsi teks. Salah satu hal menarik yang bisa dibuat adalah gambar kucing dari berbagai jenis dengan berbagai gaya. Dalam artikel ini, kita akan membuat prompt gambar untuk berbagai jenis kucing, yang akan memungkinkan Anda menghasilkan gambar kucing yang luar biasa menggunakan alat AI seperti DALL-E, MidJourney, atau Bing Image Generator.
+_Diposting Pada:_ **13 Maret 2025**
+_Oleh:_  [**Wahyudi**](../author/wahyudi.html)
+
+Saat ini, dengan bantuan kecerdasan buatan (AI), kita bisa dengan mudah membuat gambar dari deskripsi teks. Salah satu hal menarik yang bisa dibuat adalah gambar kucing dari berbagai jenis dengan berbagai gaya. Dalam artikel ini, kita akan membuat prompt gambar untuk berbagai jenis kucing, yang akan memungkinkan Anda menghasilkan gambar kucing yang luar biasa menggunakan alat AI seperti DALL-E, MidJourney, atau Bing Image Generator. 
+
+![Prompt Gambar Kucing dengan AI](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-ade-dari-sulawesi-ke-bogor-demi-ikut-kelas-sabun.webp)
+
 
 Untuk membuat gambar yang mendalam dan realistis, kita akan menggunakan struktur prompt yang terorganisir dengan baik. Struktur prompt ini mengikuti pola:  
 (TYPE of ART/PHOTOGRAPHY) + (SUBJECT) + (DESCRIPTION) + (LOCATION) + (ACTIVITY) + (LIGHTING) + (STYLE) + (COMPOSITION) + (PROFESSIONALISM).
