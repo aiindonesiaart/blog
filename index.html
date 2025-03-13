@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AI Indonesia Art</title>
   <link rel="stylesheet" href="/blog/styles.css">
+   <link rel="stylesheet" href="/blog/socpro.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
@@ -19,7 +20,17 @@
     <div id="post-list" class="post-list"></div>
     <div id="pagination" class="pagination"></div>
   </div>
-
+  
+  <div id="social-proof-container">
+      <div id="social-proof-notification" class="hidden">
+        <img id="product-image" src="" alt="Product Image">
+        <div id="notification-text">
+          <span id="user-name"></span> telah membeli produk 
+          <a id="product-link" href="#" target="_blank"></a>.
+        </div>
+      </div>
+    </div>
+  
   <div id="footer"></div>
 
   <script>
@@ -81,5 +92,6 @@
   </script>
   <script type="text/javascript" src="rpg.js"></script>
   <script type="text/javascript" src="rpg-interior.js"></script>
+  <script type="text/javascript" src="socpro.js"></script>
 </body>
 </html>
