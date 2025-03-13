@@ -5,7 +5,7 @@ _Oleh:_  [**Wahyudi**](../author/wahyudi.html)
 
 Di dunia kecerdasan buatan yang terus berkembang, kini terdapat banyak alat yang dapat digunakan untuk membuat gambar dan video yang mengesankan. Baik Anda seorang seniman, pembuat konten, atau hanya seseorang yang tertarik untuk menjelajahi dunia visual yang dihasilkan oleh AI, ada banyak pilihan yang tersedia. Berikut adalah 25 alat AI yang dapat membantu Anda menghasilkan gambar dan video, masing-masing dengan fitur dan kemampuan unik.
 
-![Contoh Prompt Gambar AI Menciptakan Gambar Unik](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-ade-dari-sulawesi-ke-bogor-demi-ikut-kelas-sabun.webp)
+![25 Alat AI untuk Menghasilkan Gambar dan Video Selain Bing](https://qph.cf2.quoracdn.net/main-qimg-c5b7c572e4d393e1420b30ceb00d2f63)
 
 
 1. Bing Image Creator  [Website](https://www.bing.com/images/create)  
