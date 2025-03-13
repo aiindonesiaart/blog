@@ -32,7 +32,7 @@ Prompt:
 - **Description** : A fluffy, long-haired cat with a round face and large expressive eyes.
 - **Location** : Luxurious living room with velvet cushions and a chandelier overhead.
 - **Activity** : The Persian cat is playfully pawing at a decorative ball of yarn.
-- Lighting: Soft and diffused lighting, with a slight glow from the chandelier.
+- **Lighting** : Soft and diffused lighting, with a slight glow from the chandelier.
 - **Style** : Opulent and soft-focus, highlighting the luxury of the setting and the cat's elegant features.
 - **Composition** : The cat is in the foreground, surrounded by a blurred background of luxurious furniture.
 - **Professionalism** : High-end, detailed focus on the fur texture and facial expression of the cat.
@@ -45,7 +45,7 @@ Prompt:
 - **Description** : A compact cat with a short, plush coat, resembling a Persian but with a more muscular build.
 - **Location** : Simple studio backdrop with neutral tones.
 - **Activity** : The Exotic Shorthair is playfully interacting with a small toy mouse.
-- Lighting: High-contrast lighting that highlights the cat's round features and plush coat.
+- **Lighting** : High-contrast lighting that highlights the cat's round features and plush coat.
 - **Style** : Clean, modern, and focused on texture details.
 - **Composition** : The cat is centrally framed with the toy mouse in the lower foreground.
 - **Professionalism** : A high-quality image that shows off the details of the fur and playful behavior.
@@ -58,7 +58,7 @@ Prompt:
 - **Description** : A round-faced cat with dense, plush blue-gray fur and amber eyes.
 - **Location** : A cozy, rustic kitchen setting with wooden floors.
 - **Activity** : The British Shorthair is curiously inspecting a bowl of food.
-- Lighting: Soft ambient light coming from the kitchen window, creating a warm atmosphere.
+- **Lighting** : Soft ambient light coming from the kitchen window, creating a warm atmosphere.
 - **Style** : Warm, realistic digital art, with a touch of softness in the cat’s fur.
 - **Composition** : The cat is placed to the side, with a softly blurred kitchen background.
 - **Professionalism** : The image is sharp and focused on the cat, with realistic fur texture.
@@ -71,7 +71,7 @@ Prompt:
 - **Description** : A long-haired cat with a silky coat, deep blue eyes, and white paws.
 - **Location** : A peaceful garden surrounded by flowers and greenery.
 - **Activity** : The Birman cat is walking gracefully through the garden, tail held high.
-- Lighting: Soft, ethereal lighting as the sun filters through the leaves.
+- **Lighting** : Soft, ethereal lighting as the sun filters through the leaves.
 - **Style** : Soft watercolor style, capturing the beauty and grace of the cat.
 - **Composition** : The cat is in motion, with the garden and flowers framing the image.
 - **Professionalism** : A delicate, refined illustration that shows the Birman’s elegance.
@@ -84,7 +84,7 @@ Prompt:
 - **Description** : A large, majestic cat with tufted ears, a long, flowing tail, and a thick mane of fur.
 - **Location** : A rustic barn with natural wood accents, sun streaming through cracks in the walls.
 - **Activity** : The Maine Coon is playfully chasing after a feathered toy.
-- Lighting: Sunlight streaming through barn windows, casting long shadows on the floor.
+- **Lighting** : Sunlight streaming through barn windows, casting long shadows on the floor.
 - **Style** : Cinematic, with a focus on dramatic lighting and texture.
 - **Composition** : The cat is in the center of the frame, with the barn and natural elements providing depth.
 - **Professionalism** : High-quality, dramatic capture of the cat’s size and beauty in a cinematic setting.
@@ -97,7 +97,7 @@ Prompt:
 - **Description** : A large, affectionate cat with striking blue eyes and a silky coat that drapes gracefully.
 - **Location** : A cozy living room with soft rugs and warm lighting.
 - **Activity** : The Ragdoll is being gently petted, with its eyes closed in contentment.
-- Lighting: Warm, golden lighting creating a calm, inviting atmosphere.
+- **Lighting** : Warm, golden lighting creating a calm, inviting atmosphere.
 - **Style** : Soft focus, emphasizing the gentle and loving nature of the Ragdoll.
 - **Composition** : The cat is framed in close-up, with the background blurred to keep the focus on the cat’s expression.
 - **Professionalism** : A heartwarming and intimate portrayal of the Ragdoll’s personality.
@@ -110,7 +110,7 @@ Prompt:
 - **Description** : A hairless, wrinkled cat with large ears and an inquisitive expression.
 - **Location** : A modern, minimalist living room with sleek furniture.
 - **Activity** : The Sphynx is sitting on a plush sofa, looking curiously at the camera.
-- Lighting: High-contrast lighting with shadows emphasizing the cat’s unique features.
+- **Lighting** : High-contrast lighting with shadows emphasizing the cat’s unique features.
 - **Style** : Bold, with a focus on sharp contrasts and minimalism.
 - **Composition** : The cat is placed in the center with a stark, simple background.
 - **Professionalism** : A sleek and sophisticated portrait that showcases the unique appearance of the Sphynx.
@@ -123,7 +123,7 @@ Prompt:
 - **Description** : A graceful, medium-sized cat with a short, dense coat of bluish-gray fur and striking green eyes.
 - **Location** : An elegant study with dark wood furniture and soft leather chairs.
 - **Activity** : The Russian Blue is perched on a bookshelf, observing the room silently.
-- Lighting: Soft, focused lighting accentuates the sleek coat and vibrant eyes.
+- **Lighting** : Soft, focused lighting accentuates the sleek coat and vibrant eyes.
 - **Style** : Classic and refined, highlighting the Russian Blue’s sophisticated features.
 - **Composition** : The cat is centered in the image, with the bookshelf and study setting creating a sense of elegance.
 - **Professionalism** : A polished and high-end photograph showcasing the Russian Blue’s beauty.
