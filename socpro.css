@@ -1,4 +1,5 @@
 #social-proof-container {
+  position: fixed;
   max-width: 600px;
   margin: 0 auto;
   text-align: center;
