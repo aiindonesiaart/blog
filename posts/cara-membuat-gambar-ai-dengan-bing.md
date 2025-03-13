@@ -5,7 +5,7 @@ _Oleh:_  [**Wahyudi**](../author/wahyudi.html)
 
 Seiring dengan berkembangnya teknologi kecerdasan buatan (AI), membuat gambar AI kini menjadi semakin mudah dan dapat diakses oleh banyak orang. Salah satu cara untuk membuat gambar AI adalah melalui Bing Image Creator, sebuah layanan yang menggunakan teknologi DALL·E dari OpenAI untuk menghasilkan gambar berdasarkan deskripsi teks. Artikel ini akan mengulas cara membuat gambar AI menggunakan Bing dengan langkah-langkah yang mudah diikuti. 
 
-![Cara Membuat Gambar AI dengan Bing: Panduan Lengkap untuk Pemula](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-ade-dari-sulawesi-ke-bogor-demi-ikut-kelas-sabun.webp)
+![Cara Membuat Gambar AI dengan Bing: Panduan Lengkap untuk Pemula](https://qph.cf2.quoracdn.net/main-qimg-c5f7dc57e738dc5d977abe47136080dc)
 
 ### Apa Itu Bing Image Creator?
 
