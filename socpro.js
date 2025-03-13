@@ -5,19 +5,19 @@ const socialProofData = [
   {
     userName: "Supriatinu",
     productName: "AI Untuk Pemasaran",
-    productLink: "https://ratakan.com/cart/direct/20250130182559C4593FD3D03F0ADEAF52",
+    productLink: "https://ratakan.com/cart/direct/20250130182559C4593FD3D03F0ADEAF52?aff=bezimeni.id@gmail.com",
     productImage: "https://ratakan.com/uploads/prd-6eeaa60c6d.png"
   },
   {
     userName: "Enok",
     productName: "Kursus Online Gambar AI",
-    productLink: "https://ratakan.com/cart/direct/202404091749138437B92A72B9620F449B",
+    productLink: "https://ratakan.com/cart/direct/202404091749138437B92A72B9620F449B?aff=bezimeni.id@gmail.com",
     productImage: "https://ratakan.com/uploads/prd-8d7f39d27f.jpg"
   },
   {
     userName: "Agus",
     productName: "Prompt Generator Gambar AI",
-    productLink: "https://ratakan.com/cart/direct/20240311132703B5F989D27C3843E729A3",
+    productLink: "https://ratakan.com/cart/direct/20240311132703B5F989D27C3843E729A3?aff=bezimeni.id@gmail.com",
     productImage: "https://ratakan.com/uploads/prd-e4c6a0fdb3.jpg"
   }
 ];
