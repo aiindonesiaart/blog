@@ -5,7 +5,7 @@ _Oleh:_  [**Wahyudi**](../author/wahyudi.html)
 
 Sebagai seseorang yang telah terjun ke dunia digital dan teknologi, saya selalu tertarik dengan cara-cara baru untuk mengembangkan bisnis. Salah satu yang menarik perhatian saya adalah potensi besar yang ditawarkan oleh kecerdasan buatan (AI), terutama dalam dunia gambar dan video. Banyak orang mempelajari AI untuk berbagai alasan—ada yang melakukannya untuk seni, ada yang untuk ilmu pengetahuan, dan tentu saja, ada yang mengarahkannya untuk keuntungan finansial. Bagi saya, tujuan utama mempelajari AI, khususnya dalam menghasilkan gambar dan video, adalah untuk mengembangkan produk saya, baik yang berbentuk fisik maupun digital, dengan memanfaatkan teknologi ini.
 
-![Contoh Prompt Gambar AI Menciptakan Gambar Unik](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-ade-dari-sulawesi-ke-bogor-demi-ikut-kelas-sabun.webp)
+![Contoh Prompt Gambar AI Menciptakan Gambar Unik](https://qph.cf2.quoracdn.net/main-qimg-40e13a6328019b520a65389175b4faf8)
 
 
 Sebagai seseorang yang telah terjun ke dunia digital dan teknologi, saya selalu tertarik dengan cara-cara baru untuk mengembangkan bisnis. Salah satu yang menarik perhatian saya adalah potensi besar yang ditawarkan oleh kecerdasan buatan (AI), terutama dalam dunia gambar dan video. Banyak orang mempelajari AI untuk berbagai alasan—ada yang melakukannya untuk seni, ada yang untuk ilmu pengetahuan, dan tentu saja, ada yang mengarahkannya untuk keuntungan finansial. Bagi saya, tujuan utama mempelajari AI, khususnya dalam menghasilkan gambar dan video, adalah untuk mengembangkan produk saya, baik yang berbentuk fisik maupun digital, dengan memanfaatkan teknologi ini.
