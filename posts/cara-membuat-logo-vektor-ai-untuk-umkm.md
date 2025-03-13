@@ -5,7 +5,7 @@ _Oleh:_  [**Wahyudi**](../author/wahyudi.html)
 
 Bagi pelaku usaha mikro, kecil, dan menengah (UMKM), memiliki logo yang profesional dan mudah dikenali sangat penting. Logo bukan hanya sekedar simbol, tetapi juga identitas visual yang dapat membangun citra merek. Namun, banyak UMKM yang kesulitan dalam mendesain logo karena keterbatasan biaya atau keterampilan desain grafis. Beruntung, dengan teknologi terbaru, membuat logo yang menarik dan profesional kini bisa dilakukan dengan mudah, bahkan tanpa harus memiliki pengalaman desain. Salah satu alat yang dapat membantu adalah Microsoft Designer, yang dilengkapi dengan fitur Copilot AI.
 
-![Contoh Prompt Gambar AI Menciptakan Gambar Unik](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-ade-dari-sulawesi-ke-bogor-demi-ikut-kelas-sabun.webp)
+![Cara Membuat Logo Vektor AI untuk UMKM dengan Bantuan Copilot dari Microsoft Designer](https://qph.cf2.quoracdn.net/main-qimg-cbc154217a545a46e6bf76aaa0f36e37)
 
 
 Berikut adalah panduan langkah demi langkah untuk membuat logo vektor AI yang keren untuk bisnis UMKM Anda dengan bantuan Copilot dari Microsoft Designer:
@@ -14,9 +14,9 @@ Berikut adalah panduan langkah demi langkah untuk membuat logo vektor AI yang ke
 
 Sebelum memulai desain, tentukan terlebih dahulu apa yang ingin Anda komunikasikan melalui logo tersebut. Pikirkan tentang nama bisnis Anda, nilai-nilai yang ingin Anda tonjolkan, dan audiens yang ingin Anda jangkau. Misalnya, apakah logo Anda ingin terlihat modern dan minimalis, atau lebih berwarna dan ceria?
 
-Tips:
-< Pilih konsep yang mewakili bisnis Anda.
-< Pikirkan tentang warna dan bentuk yang akan mencerminkan produk atau layanan yang Anda tawarkan.
+> [!TIP]
+> Pilih konsep yang mewakili bisnis Anda.
+> Pikirkan tentang warna dan bentuk yang akan mencerminkan produk atau layanan yang Anda tawarkan.
 
 2. Akses Microsoft Designer dengan Copilot AI
 
@@ -29,7 +29,7 @@ Microsoft Designer adalah alat desain berbasis cloud yang memungkinkan Anda untu
 
 Microsoft Designer memiliki berbagai template yang bisa Anda pilih untuk memulai desain logo. Pilihlah template yang paling sesuai dengan konsep bisnis Anda. Jika Anda tidak menemukan template yang sesuai, jangan khawatir, Anda bisa memulai desain dari nol dan membiarkan Copilot membantu Anda menciptakan logo yang unik.
 
-Tips:
+> [!TIP]
 > Pilih template yang paling mendekati visi Anda, kemudian kustomisasi elemen-elemen di dalamnya.
 
 4. Gunakan Fitur Copilot untuk Menyesuaikan Desain
