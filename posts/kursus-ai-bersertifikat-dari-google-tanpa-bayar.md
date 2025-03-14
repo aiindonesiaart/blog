@@ -28,8 +28,14 @@ Link kursus: [Introduction to Responsible AI](https://www.cloudskillsboost.googl
 
 5. Cloud Computing Foundations
 Kursus ini sangat relevan bagi mereka yang ingin memahami dasar-dasar komputasi awan, yang merupakan pondasi bagi banyak aplikasi AI modern. Anda akan belajar bagaimana komputasi awan bekerja dan bagaimana data dan aplikasi dapat dikelola dan dianalisis di awan.  
-Link kursus: [Cloud Computing Foundations](https://www.cloudskillsboost.google/course_templates/15…
-Jika Anda tertarik untuk memahami bagaimana prinsip-prinsip AI diterapkan dalam platform cloud, kursus ini akan memberikan wawasan praktis tentang cara menggunakan layanan Google Cloud untuk membangun aplikasi berbasis AI.  
+Link kursus: [Cloud Computing Foundations](https://www.cloudskillsboost.google/course_templates/153)
+
+6. Introduction to Machine Learning
+Pengenalan pada pembelajaran mesin (machine learning) menjadi dasar bagi siapa pun yang ingin menguasai AI. Kursus ini mencakup pengenalan tentang bagaimana mesin belajar dari data, serta berbagai algoritma yang digunakan dalam pembelajaran mesin.  
+Link kursus: [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course)
+
+7. Applying AI Principles with Google Cloud
+[06:34, 3/14/2025] ChatGPT: Jika Anda tertarik untuk memahami bagaimana prinsip-prinsip AI diterapkan dalam platform cloud, kursus ini akan memberikan wawasan praktis tentang cara menggunakan layanan Google Cloud untuk membangun aplikasi berbasis AI.  
 Link kursus: [Applying AI Principles with Google Cloud](https://www.cloudskillsboost.google/course_templates/388)
 
 8. Understanding Machine Learning
@@ -49,5 +55,3 @@ Kursus ini memberikan pemahaman tentang cara mendesain prompt yang efektif untuk
 Link kursus: [Prompt Design in Vertex AI](https://www.cloudskillsboost.google/course_templates/976)
 
 Google menyediakan berbagai kursus online yang memungkinkan Anda belajar tentang AI secara gratis, dari pengenalan dasar hingga aplikasi praktis yang lebih mendalam. Kursus-kursus ini tidak hanya menawarkan pengetahuan teoretis, tetapi juga memberikan sertifikat yang dapat membantu meningkatkan kredibilitas Anda di dunia kerja. Jadi, jika Anda tertarik untuk mempelajari dunia AI dan memanfaatkannya untuk meningkatkan keterampilan atau karier Anda, inilah kesempatan yang tidak boleh dilewatkan.
-
-Segera daftar dan mulailah perjalanan Anda dalam memahami teknologi masa depan!
