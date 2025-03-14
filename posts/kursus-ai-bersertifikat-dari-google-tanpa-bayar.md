@@ -5,7 +5,7 @@ _Oleh:_  [**Wahyudi**](../author/wahyudi.html)
 
 Kemajuan teknologi dalam bidang kecerdasan buatan (AI) semakin pesat, dan kini banyak orang yang tertarik untuk mempelajari teknologi ini untuk berbagai keperluan, baik itu untuk pengembangan karier, startup, ataupun sekadar memahami dasar-dasar teknologi yang semakin mendominasi banyak sektor kehidupan. Salah satu cara untuk menguasai AI adalah dengan mengikuti kursus online. Untungnya, Google menawarkan berbagai kursus AI yang dapat diakses tanpa biaya dan menyediakan sertifikat yang dapat membantu meningkatkan kredibilitas di dunia kerja.
 
-![Contoh Prompt Gambar AI Menciptakan Gambar Unik](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-ade-dari-sulawesi-ke-bogor-demi-ikut-kelas-sabun.webp)
+![Kursus AI Besertifikat Dari Google Tanpa Bayar](https://qph.cf2.quoracdn.net/main-qimg-f8ef4fbf2e12d1b5fe1cfaa4aecf8a21)
 
 
 Berikut adalah beberapa kursus AI besertifikat dari Google yang dapat Anda akses secara gratis, tanpa perlu membayar:
