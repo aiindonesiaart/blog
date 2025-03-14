@@ -5,17 +5,17 @@ _Oleh:_  [**Wahyudi**](../author/wahyudi.html)
 
 Di era digital ini, teknologi semakin berkembang pesat dan AI (Kecerdasan Buatan) mulai memainkan peran penting dalam banyak bidang, salah satunya dalam dunia musik. Dengan bantuan AI, siapa saja kini bisa menciptakan lagu, bahkan tanpa latar belakang musik yang mendalam. Salah satu platform yang sedang naik daun dalam pembuatan musik berbasis AI adalah Suno.
 
-![Cara Membuat Lagu dengan Bantuan AI](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-ade-dari-sulawesi-ke-bogor-demi-ikut-kelas-sabun.webp)
+![Cara Membuat Lagu dengan Bantuan AI](https://qph.cf2.quoracdn.net/main-qimg-df13f35dd6742f4a227d3f6ced0dfea7)
 
 
 Tapi bagaimana sebenarnya cara membuat lagu dengan bantuan AI seperti Suno? Berikut adalah panduan untuk membuat lagu dengan menggunakan AI, beserta tips cara memberi perintah (prompt) yang tepat untuk menghasilkan musik yang Anda inginkan.
 
-1. Memahami Suno dan Alat AI Pembuat Musik Lainnya
+### Memahami Suno dan Alat AI Pembuat Musik Lainnya
 
 Suno adalah salah satu platform AI yang memungkinkan penggunanya untuk membuat lagu hanya dengan memberikan perintah atau prompt. Anda tidak perlu tahu cara memainkan instrumen atau menulis notasi musik; AI akan melakukannya untuk Anda. Selain Suno, ada juga beberapa alat AI pembuat musik lainnya seperti Amper Music, Jukedeck, Soundraw, dan Aiva.
 Setiap platform memiliki fitur dan keunggulannya masing-masing, namun umumnya mereka memungkinkan pengguna untuk menentukan jenis musik, mood, tempo, dan berbagai elemen musik lainnya melalui prompt.
 
-2. Langkah-Langkah Membuat Lagu dengan Bantuan AI
+### Langkah-Langkah Membuat Lagu dengan Bantuan AI
 
 Langkah 1: Pilih Platform Pembuat Musik AI
 Pilih platform yang paling sesuai dengan kebutuhan Anda. Misalnya, jika Anda ingin membuat lagu dengan genre tertentu, pastikan platform yang Anda pilih mendukung genre tersebut. Suno, misalnya, memungkinkan Anda untuk membuat lagu dalam berbagai genre, mulai dari pop, rock, hingga genre yang lebih eksperimental.
@@ -41,7 +41,7 @@ Setelah memberikan prompt, AI akan menghasilkan musik sesuai dengan permintaan A
 Langkah 5: Menyimpan dan Menggunakan Lagu
 Setelah Anda puas dengan hasil musik yang dihasilkan, Anda bisa menyimpannya sebagai file audio atau mengunduhnya dalam berbagai format yang sesuai dengan kebutuhan Anda. Lagu ini kemudian bisa digunakan untuk keperluan pribadi atau komersial, tergantung pada kebijakan platform AI yang digunakan.
 
-3. Tips Agar Hasil Musik Lebih Memuaskan
+### Tips Agar Hasil Musik Lebih Memuaskan
 - Gunakan Prompt yang Jelas dan Spesifik: Semakin detail Anda memberikan instruksi pada AI, semakin baik hasil yang Anda dapatkan. Misalnya, alih-alih hanya meminta “musik santai”, coba beri instruksi lebih detail seperti, “Buat musik akustik santai dengan gitar dan vokal lembut”.
   
 - Eksperimen dengan Berbagai Elemen: Jangan takut untuk mencoba berbagai kombinasi genre, mood, dan instrumen. Banyak platform menyediakan opsi untuk bereksperimen, sehingga Anda bisa mendapatkan variasi yang lebih banyak.
