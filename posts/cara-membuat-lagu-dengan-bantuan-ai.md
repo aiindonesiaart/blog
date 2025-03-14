@@ -52,6 +52,8 @@ Setelah Anda puas dengan hasil musik yang dihasilkan, Anda bisa menyimpannya seb
 
 [![Jingle Lagu Bandar Deterjen](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FNyli0XDVbxA)](https://youtu.be/Nyli0XDVbxA)
 
+#### Contoh Jingle Lagu Dari AI
+
 Membuat lagu dengan bantuan AI kini menjadi lebih mudah dan terjangkau. Dengan platform seperti Suno dan alat lainnya, siapa pun bisa membuat musik tanpa memerlukan pengetahuan mendalam tentang teori musik atau instrumen. Cukup dengan memberikan prompt yang tepat, Anda dapat menghasilkan lagu dengan genre dan gaya yang Anda inginkan. Teknologi ini membuka peluang baru bagi pencipta musik, terutama mereka yang ingin menghasilkan karya tanpa batasan teknis.
 
 Jadi, jika Anda tertarik untuk membuat musik atau mengembangkan ide lagu Anda, AI bisa menjadi alat yang hebat untuk mewujudkannya. Cobalah platform pembuat musik AI dan lihat bagaimana teknologi ini dapat membantu Anda menciptakan karya musik yang menakjubkan!
