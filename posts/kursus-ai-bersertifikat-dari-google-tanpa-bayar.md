@@ -1,6 +1,6 @@
 # Kursus AI Besertifikat Dari Google Tanpa Bayar Menjadi Ahli Teknologi Canggih Secara Gratis
 
-_Diposting Pada:_ **12 Maret 2025**
+_Diposting Pada:_ **14 Maret 2025**
 _Oleh:_  [**Wahyudi**](../author/wahyudi.html)
 
 Kemajuan teknologi dalam bidang kecerdasan buatan (AI) semakin pesat, dan kini banyak orang yang tertarik untuk mempelajari teknologi ini untuk berbagai keperluan, baik itu untuk pengembangan karier, startup, ataupun sekadar memahami dasar-dasar teknologi yang semakin mendominasi banyak sektor kehidupan. Salah satu cara untuk menguasai AI adalah dengan mengikuti kursus online. Untungnya, Google menawarkan berbagai kursus AI yang dapat diakses tanpa biaya dan menyediakan sertifikat yang dapat membantu meningkatkan kredibilitas di dunia kerja.
