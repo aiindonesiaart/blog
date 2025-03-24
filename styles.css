@@ -101,7 +101,17 @@ footer a {
 }
 .post-list { margin-top: 2rem; }
 .post-item { margin-bottom: 2rem; }
-.post-item h3 { margin-bottom: 0.5rem; }
+
+.gallery-item {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+.gallery-item img {
+  width: 100%;
+}
+
 
 /* Added to styles.css */
 .pagination {
