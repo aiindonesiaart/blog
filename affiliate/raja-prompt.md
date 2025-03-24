@@ -4,7 +4,13 @@ Bikin Kreasi AI Luar Biasa Hanya Dengan Kata-Kata
 
 Tahukan Anda sekarang membuat gambar keren dan luar biasa hanya dengan kata-kata? Kecerdasan buatan atau AI (Artificial Intelegence) ini bisa kita gunakan untuk memproduksi gambar atau foto. Kita tinggal memasukkan narasi tulis tentang visual apa yang kita inginkan ke dalam penyedia layanan text to image generator. Hanya hitungan beberapa detik saja gambar yang kita inginkan sudah muncul. Luar biasa bukan?
 
+<div align = center>
+    
+[![Button SI]][Link SI]
 
+<br>
+<br>
+</div>
 
 Tetapi Banyak Dari Mereka Alami Kendala
 Bingung bagaimana memulai dan cara membuatnya.
@@ -19,3 +25,8 @@ Ebook Materi Latihan Prompt Untuk Pemula
 400 Prompt Teks Bahasa Indonesia dan Inggris
 600 Prompt Beserta Gambar
 Gratis Update Prompt Tiap Hari
+
+<!---------------------------------[ Bagian Single Image ]---------------------------------->
+
+[Button SI]: https://ratakan.com/uploads/prd-49ece041a6.jpg
+[Link SI]: #
