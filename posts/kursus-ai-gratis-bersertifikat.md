@@ -1,6 +1,19 @@
 # Kursus AI Gratis Bersertifikat dengan NVIDIA: Tingkatkan Keahlian Anda di Dunia Kecerdasan Buatan
 
+_Diposting Pada:_ **26 Maret 2025**
+_Oleh:_  [**Wahyudi**](../author/wahyudi.html)
+
 Di era kecerdasan buatan (AI) yang semakin berkembang, memiliki keterampilan dalam bidang ini menjadi semakin penting. NVIDIA, salah satu perusahaan terkemuka di bidang teknologi dan AI, kini menyediakan berbagai kursus gratis bersertifikat untuk memperkenalkan Anda lebih dalam tentang dunia AI, machine learning, dan teknologi terkait. Kursus-kursus ini dirancang untuk memberikan pemahaman yang kuat bagi siapa saja yang ingin memulai atau mengembangkan karir di bidang ini.
+
+<br>
+
+<div align = center>
+    
+[![Button SI]][Link SI]
+
+<br>
+<br>
+</div>
 
 Berikut adalah daftar kursus AI gratis yang disediakan oleh NVIDIA lengkap dengan tautan untuk pendaftaran dan kursus yang bisa diikuti:
 
@@ -75,3 +88,8 @@ NVIDIA telah lama dikenal sebagai pemimpin dalam bidang kecerdasan buatan dan ko
 Setiap kursus dirancang untuk memberikan pemahaman praktis dan teori yang dibutuhkan oleh para pemula maupun profesional dalam AI, machine learning, serta teknologi terkait lainnya. Dan yang lebih menarik, seluruh kursus tersebut bisa diakses tanpa biaya!
 
 Dengan kursus AI gratis bersertifikat dari NVIDIA, Anda memiliki kesempatan untuk mempelajari berbagai topik penting dalam dunia kecerdasan buatan, mulai dari generative AI, machine learning, hingga pengembangan robot. Setiap kursus juga memberikan sertifikat yang dapat menambah nilai bagi karir Anda. Jangan lewatkan kesempatan untuk mengembangkan keterampilan Anda di bidang yang sangat menjanjikan ini. Daftar sekarang dan mulailah perjalanan Anda di dunia AI dengan NVIDIA!
+
+<!---------------------------------[ Bagian Single Image ]---------------------------------->
+
+[Button SI]: https://raw.githubusercontent.com/bandardeterjen/resepkimia/refs/heads/images/resep-kimia-homecare.jpg
+[Link SI]: #
