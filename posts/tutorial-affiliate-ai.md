@@ -72,5 +72,5 @@ Ayo, segera daftar dan mulailah membagikan link afiliasi Anda untuk mendapatkan 
 
 <!---------------------------------[ Bagian Single Image ]---------------------------------->
 
-[Button SI]: https://qph.cf2.quoracdn.net/main-qimg-f51fc1555b7bd0839d4809594b4ea0ea
+[Button SI]: https://qph.cf2.quoracdn.net/main-qimg-9f883d52e70d26143a537649e3a07bdc
 [Link SI]: #
