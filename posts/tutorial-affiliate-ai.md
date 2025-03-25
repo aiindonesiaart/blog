@@ -27,11 +27,11 @@ Berikut adalah tutorial langkah demi langkah untuk bergabung menjadi afiliasi AI
 
 #### Langkah 1: Daftar Akun di Ratakan.com
 
-Langkah pertama yang perlu Anda lakukan adalah mendaftar akun di platform Ratakan.com. Cukup kunjungi situs mereka dan ikuti prosedur pendaftaran untuk mendapatkan akun yang dapat digunakan untuk mengakses berbagai produk dan artikel yang tersedia untuk dipromosikan.
+Langkah pertama yang perlu Anda lakukan adalah mendaftar akun di platform  [Ratakan.com](https://www.ratakan.com/). Cukup kunjungi situsnya dan ikuti prosedur pendaftaran untuk mendapatkan akun yang dapat digunakan untuk mengakses berbagai produk dan artikel yang tersedia untuk dipromosikan.
 
 #### Langkah 2: Klik Artikel Affiliate di Blog AI Indonesia Art
 
-Setelah Anda berhasil mendaftar, langkah berikutnya adalah membuka artikel affiliate di blog AI Indonesia Art. Di sini, Anda akan menemukan berbagai produk berbasis AI yang bisa dipromosikan kepada audiens Anda. Pilih artikel atau produk yang sesuai dengan niche atau topik yang Anda kuasai atau yang ingin Anda promosikan.
+Setelah Anda berhasil mendaftar, langkah berikutnya adalah membuka [artikel affiliate](https://aiindonesiaart.github.io/blog/affiliate/) di blog **AI Indonesia Art**. Di sini, Anda akan menemukan berbagai produk berbasis AI yang bisa dipromosikan kepada audiens Anda. Pilih artikel atau produk yang ingin Anda promosikan.
 
 #### Langkah 3: Pilih Artikel yang Akan Anda Afiliasikan
 
@@ -43,11 +43,11 @@ Pada halaman afiliasi, Anda akan diminta untuk memasukkan alamat email yang tela
 
 #### Langkah 5: Update Link, Klik Oke pada Pop-up yang Muncul
 
-Setelah memasukkan alamat email, Anda akan diminta untuk memperbarui link afiliasi Anda. Pastikan link yang muncul adalah link afiliasi yang benar. Jika semuanya sudah sesuai, klik "Oke" pada pop-up yang muncul untuk melanjutkan proses.
+Setelah memasukkan alamat email, Anda akan diminta untuk memperbarui link afiliasi Anda. klik **Update Link**. Jika semuanya sudah sesuai, klik "Oke" pada pop-up yang muncul untuk melanjutkan proses.
 
 #### Langkah 6: Link Referral Anda Siap Digunakan
 
-Setelah berhasil memperbarui dan mendapatkan link referral, link ini siap digunakan untuk mempromosikan produk atau artikel yang telah Anda pilih. Anda bisa menggunakan link ini di berbagai media, seperti blog, media sosial, atau platform lain yang Anda miliki.
+Nanti tombol **Dapatkan Produk** akan berubah menjadi **Link Referral Anda Siap Digunakan** . Klik link ini dan biarkan _browser_ terbuka menuju link Ratakan. Anda pastikan melihat tautan dan tertera email Anda. Anda bisa tes dengan mencoba klik pembelian atau _checkout_ dan pastikan tertera afiliasi dari akun Anda. Anda bisa menggunakan link ini di berbagai media, seperti blog, media sosial, atau platform lain yang Anda miliki.
 
 #### Langkah 7: Share Link Ini di Blog atau Media Sosial
 
