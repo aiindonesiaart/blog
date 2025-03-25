@@ -91,5 +91,5 @@ Dengan kursus AI gratis bersertifikat dari NVIDIA, Anda memiliki kesempatan untu
 
 <!---------------------------------[ Bagian Single Image ]---------------------------------->
 
-[Button SI]: https://raw.githubusercontent.com/bandardeterjen/resepkimia/refs/heads/images/resep-kimia-homecare.jpg
+[Button SI]: https://qph.cf2.quoracdn.net/main-qimg-f51fc1555b7bd0839d4809594b4ea0ea
 [Link SI]: #
