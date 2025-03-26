@@ -15,3 +15,5 @@ Ambil bagian dari perkembangan teknologi dengan menguasai AI gambar  untuk keper
 <!---------------------------------[ Bagian Single Image ]---------------------------------->
 
 [Button SI]: https://ratakan.com/uploads/prd-8d7f39d27f.jpg
+[Link SI]: #
+
