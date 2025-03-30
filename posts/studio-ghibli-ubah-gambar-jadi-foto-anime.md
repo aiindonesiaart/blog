@@ -1,17 +1,18 @@
 # Mengenal Tren Art Style Studio Ghibli Ubah Gambar Menjadi Foto Anime
 
-_Diposting Pada:_ **14 Maret 2025**
+_Diposting Pada:_ **30 Maret 2025**
 _Oleh:_  [**Wahyudi**](../author/wahyudi.html)
 
-Studio Ghibli adalah nama yang sangat familiar bagi para penggemar animasi di seluruh dunia. Dengan karya-karya ikonik seperti Spirited Away, My Neighbor Totoro, dan Princess Mononoke, studio asal Jepang ini telah menciptakan visual yang mendalam, penuh warna, dan penuh makna. Tak hanya itu, gaya artistiknya yang khas kini sedang tren di kalangan penggemar seni dan teknologi. Dengan bantuan kecerdasan buatan (AI), banyak aplikasi yang memungkinkan pengguna untuk mengubah gambar menjadi foto dengan gaya anime ala Studio Ghibli. Namun, penggunaan teknologi ini tidak lepas dari kontroversi, terutama terkait penolakan dari Hayao Miyazaki, salah satu pendiri Studio Ghibli.. 
+Studio Ghibli adalah nama yang sangat familiar bagi para penggemar animasi di seluruh dunia. Dengan karya-karya ikonik seperti _Spirited Away, My Neighbor Totoro_, dan _Princess Mononoke_, studio asal Jepang ini telah menciptakan visual yang mendalam, penuh warna, dan penuh makna. Tak hanya itu, gaya artistiknya yang khas kini sedang tren di kalangan penggemar seni dan teknologi. Dengan bantuan kecerdasan buatan (AI), banyak aplikasi yang memungkinkan pengguna untuk mengubah gambar menjadi foto dengan gaya anime ala **Studio Ghibli**. Namun, penggunaan teknologi ini tidak lepas dari kontroversi, terutama terkait penolakan dari Hayao Miyazaki, salah satu pendiri Studio Ghibli.. 
 
-![Tren Art Style Studio Ghibli Ubah Gambar Menjadi Foto Anime](https://qph.cf2.quoracdn.net/main-qimg-720733fa22ab8f168213ee21281944ae)
+![Tren Art Style Studio Ghibli Ubah Gambar Menjadi Foto Anime](https://qph.cf2.quoracdn.net/main-qimg-70eb73773812acd66e2d7affd0caf596)
 
 
 ### Apa Itu Art Style Studio Ghibli?
 Art style atau gaya seni Studio Ghibli dikenal dengan nuansa magis, kaya akan detail, dan penuh dengan ekspresi emosional yang mendalam. Karakter-karakter dalam film Ghibli sering digambarkan dengan mata besar dan ekspresi yang menyentuh hati, sementara latar belakangnya selalu menonjolkan keindahan alam yang luar biasa, baik itu pemandangan alam liar, pedesaan, hingga dunia fantasi. Keunikan gaya ini membuatnya mudah dikenali, bahkan oleh mereka yang hanya menonton satu atau dua film Ghibli.
 
-Aplikasi untuk Mengubah Gambar Menjadi Foto Anime ala Studio Ghibli
+### Aplikasi untuk Mengubah Gambar Menjadi Foto Anime ala Studio Ghibli
+
 Dengan kemajuan teknologi, kini ada berbagai aplikasi dan platform berbasis kecerdasan buatan yang memungkinkan pengguna untuk mengubah gambar atau foto menjadi gaya animasi seperti Studio Ghibli. Beberapa aplikasi yang mendukung konversi gambar ke dalam gaya anime ini antara lain:
 
 1. **Artbreeder** . 
