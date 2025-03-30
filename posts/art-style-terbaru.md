@@ -12,103 +12,103 @@ Gaya seni Studio Ghibli dikenal dengan latar belakang yang penuh detail dan suas
 
 Contoh Prompt:  
 
-> “Gambar seorang pria Indonesia tampan dengan kumis tipis, mengenakan kaos oranye, gaya seni Studio Ghibli, di bawah pohon besar di tengah padang rumput, dengan cahaya lembut dari senja yang menghangatkan suasana.”
+> “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, Studio Ghibli art style, under a large tree in the middle of a meadow, with soft sunset light warming the atmosphere.”
 
 2. **Dragonball Z**
 Salah satu art style paling ikonik adalah dari Dragonball Z, dengan karakter yang berotot dan ekspresi yang intens. Dengan gaya pewarnaan cerah dan garis yang tajam, art style ini menghadirkan aksi yang luar biasa.
 
 Contoh Prompt:
 
-> “Gambar seorang pria Indonesia tampan dengan kumis tipis, mengenakan kaos oranye, gaya seni Dragonball Z, dengan latar belakang pegunungan yang sedang meletus, penuh dengan aksi kekuatan super.”
+> “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, Dragonball Z art style, with a volcanic mountain erupting in the background, full of superpowered action.”
 
 3. **Disney Pixar**  
 Disney Pixar dikenal dengan karakter-karakter animasi 3D yang sangat ekspresif dan penuh warna. Karya-karya seperti Toy Story, Up, dan Finding Nemo memiliki detail yang halus dan kemampuan untuk membawa cerita kepada penonton dengan cara yang penuh emosi.
 
 Contoh Prompt: 
 
-> “Gambar seorang pria Indonesia tampan dengan kumis tipis, mengenakan kaos oranye, gaya seni Disney Pixar, dengan senyum lebar di taman bermain penuh warna.”
+> “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, Disney Pixar art style, with a big smile in a colorful playground.”
 
 4. **Marvel Comics**  
 Art style Marvel Comics penuh dengan aksi, kekuatan, dan karakter yang kuat. Dengan garis tebal dan bayangan yang intens, karakter-karakter seperti Spider-Man, Iron Man, dan Captain America memiliki ciri khas visual yang sangat berbeda.
 
 Contoh Prompt:
 
-> “Gambar seorang pria Indonesia tampan dengan kumis tipis, mengenakan kaos oranye, gaya seni Marvel Comics, dengan latar belakang gedung pencakar langit dan suasana penuh kekuatan.”
+> “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, Marvel Comics art style, with a skyscraper background and an atmosphere full of strength.”
 
 5. **Beavis and Butthead**  
 Gaya seni dari Beavis and Butthead sangat sederhana dengan warna-warna yang cenderung flat dan desain karakter yang kasar. Ini adalah contoh animasi yang lebih 'raw' dan tidak terlalu halus dalam detailnya.
 
 Contoh Prompt: 
 
-> “Gambar seorang pria Indonesia tampan dengan kumis tipis, mengenakan kaos oranye, gaya seni Beavis and Butthead, dengan ekspresi konyol di kamar dengan poster band rock.”
+> “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, Beavis and Butthead art style, with a goofy expression in a room with rock band posters.”
 
 6. **The Simpsons**  
 The Simpsons adalah animasi yang menggunakan gaya seni yang sangat kartunis dan mudah dikenali. Karakter-karakternya memiliki bentuk wajah yang sangat khas dan desain yang sederhana namun tetap mengandung humor dan kritik sosial.
 
 Contoh Prompt:
 
-> “Gambar seorang pria Indonesia tampan dengan kumis tipis, mengenakan kaos oranye, gaya seni The Simpsons, dengan latar belakang ruang tamu yang cerah dan penuh dengan furnitur sederhana.”
+> “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, The Simpsons art style, with a bright living room background and simple furniture.”
 
 7. **Sesame Street**  
 Art style dari Sesame Street sangat cerah, dengan karakter-karakter kartun yang dirancang untuk anak-anak. Desain ini sering kali penuh dengan warna-warna primer dan bentuk-bentuk yang mudah dimengerti.
 Contoh Prompt: 
 
-> “Gambar seorang pria Indonesia tampan dengan kumis tipis, mengenakan kaos oranye, gaya seni Sesame Street, dengan latar belakang dunia penuh warna dengan karakter kartun lucu.”
+> “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, Sesame Street art style, with a colorful world background and cute cartoon characters.”
 
 8. **8-Bit Capital**  
 Gaya seni 8-bit biasanya berfokus pada pixel art dengan kualitas grafis yang rendah namun tetap artistik. Ini adalah gaya seni yang terinspirasi dari video game retro seperti Super Mario atau Tetris.
 
 Contoh Prompt: 
 
-> “Gambar seorang pria Indonesia tampan dengan kumis tipis, mengenakan kaos oranye, gaya seni 8-bit, dengan latar belakang kota pixelated yang cerah.”
+> “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, 8-bit art style, with a bright pixelated city background.”
 
 9. **Rick and Morty**  
 Gaya seni dari Rick and Morty sangat khas dengan warna-warna neon dan desain karakter yang cenderung lebih eksentrik dan tidak terduga, dengan tema ilmiah dan humor yang gelap.
 
 Contoh Prompt: 
 
-> “Gambar seorang pria Indonesia tampan dengan kumis tipis, mengenakan kaos oranye, gaya seni Rick and Morty, di tengah ruang laboratorium ilmiah dengan suasana penuh eksperimen dan petualangan.”
+> “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, Rick and Morty art style, in a sci-fi laboratory full of experiments and adventures.”
 
 10. **Lego**  
 Art style Lego berfokus pada karakter dan dunia yang dibangun menggunakan batu bata Lego. Desain ini selalu membawa elemen bermain dan kreativitas dalam setiap gambar.
 
 Contoh Prompt:
 
-> “Gambar seorang pria Indonesia tampan dengan kumis tipis, mengenakan kaos oranye, gaya seni Lego, dengan latar belakang kota Lego yang penuh dengan detail bangunan kecil.”
+> “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, Lego art style, with a Lego city background full of small building details.”
 
 11. **Naruto**  
 Naruto adalah salah satu gaya seni yang sangat populer, dengan karakter yang dinamis dan penuh aksi. Gaya seni ini memiliki elemen-elemen Jepang klasik yang dipadukan dengan pertarungan epik.
 
 Contoh Prompt: 
 
-> “Gambar seorang pria Indonesia tampan dengan kumis tipis, mengenakan kaos oranye, gaya seni Naruto, dengan latar belakang desa ninja yang sedang diserang oleh musuh.”
+> “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, Naruto art style, in the middle of a ninja village being attacked by enemies.”
 
 12. **Family Guy**  
 Gaya seni Family Guy sangat kartunis, dengan karakter-karakter yang memiliki desain wajah yang sederhana dan ekspresi yang lucu. Ini adalah gaya seni yang sering kali mengandalkan humor visual.
 
 Contoh Prompt: 
 
-> “Gambar seorang pria Indonesia tampan dengan kumis tipis, mengenakan kaos oranye, gaya seni Family Guy, dengan latar belakang ruang keluarga yang penuh dengan furnitur retro.”
+> “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, Family Guy art style, with a retro-style living room background.”
 
 13. **Minecraft**  
 Gaya seni Minecraft adalah gaya pixelated 3D dengan blok-blok yang terbuat dari kubus. Dunia yang terbentuk sepenuhnya dari blok ini menjadi ciri khas dunia permainan Minecraft.
 
 Contoh Prompt:
 
-> “Gambar seorang pria Indonesia tampan dengan kumis tipis, mengenakan kaos oranye, gaya seni Minecraft, di dunia terbuka yang penuh dengan blok kayu dan batu.”
+> “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, Minecraft art style, in an open world full of wood and stone blocks.”
 
 14. **Avatar**  
 Gaya seni Avatar dikenal dengan visual yang sangat realistis namun tetap memiliki sentuhan fantasi, seperti yang terlihat dalam film Avatar yang diproduksi oleh James Cameron.
 
 Contoh Prompt:
 
-> “Gambar seorang pria Indonesia tampan dengan kumis tipis, mengenakan kaos oranye, gaya seni Avatar, dengan latar belakang hutan Pandora yang sangat hijau dan penuh dengan kehidupan.”
+> “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, Avatar art style, with a lush Pandora forest background full of life.”
 
 15. **Pokemon**  
 Art style Pokemon sangat penuh warna dengan karakter-karakter yang lucu dan mudah dikenali. Setiap Pokemon memiliki desain yang sangat ikonik dan beragam.
 
 Contoh Prompt:
 
-> “Gambar seorang pria Indonesia tampan dengan kumis tipis, mengenakan kaos oranye, gaya seni Pokemon, dengan latar belakang kota yang penuh dengan Pokemon yang lucu dan karakter yang sedang berbicara.”
+> “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, Pokemon art style, in a city full of cute Pokemon and characters talking.”
 
 Dengan kemajuan teknologi, terutama melalui aplikasi dan AI, kita bisa menjelajahi berbagai art style dari budaya pop yang berbeda. Mulai dari gaya Studio Ghibli yang penuh magis hingga gaya Minecraft yang pixelated, setiap gaya ini memiliki ciri khas yang memungkinkan pengguna untuk merasakan pengalaman visual yang sangat berbeda. Menggunakan prompt yang tepat, Anda bisa menghasilkan gambar yang tak hanya meniru gaya ini tetapi juga menciptakan karya seni yang unik sesuai dengan imajinasi Anda.
