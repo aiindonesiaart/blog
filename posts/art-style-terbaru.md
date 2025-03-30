@@ -3,7 +3,7 @@
 _Diposting Pada:_ **30 Maret 2025**
 _Oleh:_  [**Wahyudi**](../author/wahyudi.html)
 
-Industri animasi dan seni digital semakin berkembang pesat dengan munculnya berbagai gaya seni yang tidak hanya menarik perhatian, tetapi juga mencerminkan kecenderungan visual dari berbagai budaya pop di seluruh dunia. Di antara banyak gaya yang ada, beberapa art style terbaru dan legendaris kini sedang mendominasi dunia seni, mulai dari Studio Ghibli yang penuh keajaiban hingga gaya ikonik dari Minecraft dan Rick and Morty. Berikut ini adalah beberapa art style yang sedang tren, lengkap dengan contoh prompt untuk menghasilkan gambar menggunakan AI.
+Industri animasi dan seni digital semakin berkembang pesat dengan munculnya berbagai gaya seni yang tidak hanya menarik perhatian, tetapi juga mencerminkan kecenderungan visual dari berbagai budaya pop di seluruh dunia. Di antara banyak gaya yang ada, beberapa art style terbaru dan legendaris kini sedang mendominasi dunia seni, mulai dari **Studio Ghibli** yang penuh keajaiban hingga gaya ikonik dari **Minecraft** dan **Rick and Morty**. Berikut ini adalah beberapa art style yang sedang tren, lengkap dengan contoh prompt untuk menghasilkan gambar menggunakan AI.
 
 ![Menggali Art Style Terbaru Dari Studio Ghibli Hingga Minecraft](https://qph.cf2.quoracdn.net/main-qimg-17b3233acca763729e0bc24826f1c4b5)
 
@@ -112,4 +112,4 @@ Contoh Prompt:
 
 > “Image of a handsome Indonesian man with a thin mustache, wearing an orange t-shirt, Pokemon art style, in a city full of cute Pokemon and characters talking.”
 
-Dengan kemajuan teknologi, terutama melalui aplikasi dan AI, kita bisa menjelajahi berbagai art style dari budaya pop yang berbeda. Mulai dari gaya Studio Ghibli yang penuh magis hingga gaya Minecraft yang pixelated, setiap gaya ini memiliki ciri khas yang memungkinkan pengguna untuk merasakan pengalaman visual yang sangat berbeda. Menggunakan prompt yang tepat, Anda bisa menghasilkan gambar yang tak hanya meniru gaya ini tetapi juga menciptakan karya seni yang unik sesuai dengan imajinasi Anda.
+Dengan kemajuan teknologi, terutama melalui aplikasi dan AI, kita bisa menjelajahi berbagai _art style_ dari budaya pop yang berbeda. Mulai dari gaya **Studio Ghibli** yang penuh magis hingga gaya **Minecraft** yang _pixelated_, setiap gaya ini memiliki ciri khas yang memungkinkan pengguna untuk merasakan pengalaman visual yang sangat berbeda. Menggunakan _prompt_ yang tepat, Anda bisa menghasilkan gambar yang tak hanya meniru gaya ini tetapi juga menciptakan karya seni yang unik sesuai dengan imajinasi Anda.
