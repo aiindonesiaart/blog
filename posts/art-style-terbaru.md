@@ -5,7 +5,7 @@ _Oleh:_  [**Wahyudi**](../author/wahyudi.html)
 
 Industri animasi dan seni digital semakin berkembang pesat dengan munculnya berbagai gaya seni yang tidak hanya menarik perhatian, tetapi juga mencerminkan kecenderungan visual dari berbagai budaya pop di seluruh dunia. Di antara banyak gaya yang ada, beberapa art style terbaru dan legendaris kini sedang mendominasi dunia seni, mulai dari Studio Ghibli yang penuh keajaiban hingga gaya ikonik dari Minecraft dan Rick and Morty. Berikut ini adalah beberapa art style yang sedang tren, lengkap dengan contoh prompt untuk menghasilkan gambar menggunakan AI.
 
-![Menggali Art Style Terbaru Dari Studio Ghibli Hingga Minecraft](https://qph.cf2.quoracdn.net/main-qimg-c5b7c572e4d393e1420b30ceb00d2f63)
+![Menggali Art Style Terbaru Dari Studio Ghibli Hingga Minecraft](https://qph.cf2.quoracdn.net/main-qimg-17b3233acca763729e0bc24826f1c4b5)
 
 1. **Studio Ghibli**  
 Gaya seni Studio Ghibli dikenal dengan latar belakang yang penuh detail dan suasana magis. Karakter-karakternya sering digambarkan dengan ekspresi yang mendalam dan desain yang indah. Teknik pewarnaan dan animasi 2D yang kaya dalam film seperti Spirited Away dan My Neighbor Totoro telah menciptakan dunia yang memikat hati banyak orang.
