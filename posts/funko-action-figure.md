@@ -40,6 +40,7 @@ Berikut adalah contoh perintah untuk mengubah gambar action figure menjadi berge
 2. "Transform this static image of a toy car model into a moving diecast figure. The car starts to roll forward with the wheels turning smoothly."
 
 *Action Figure Mobil dan Diecast*  
+
 Selain karakter manusia, model action figure mobil juga dapat diubah menjadi diecast. Dengan metode ini, model mobil yang tadinya statis dapat diubah menjadi gambar dinamis yang memperlihatkan mobil bergerak di atas permukaan atau sedang dipajang dalam bentuk diecast. Perintah AI untuk ini bisa berupa:
 
 1. "Transform this diecast car model into an animated image, where the car moves across a track with realistic wheel rotations and shadows."
